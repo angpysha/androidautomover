@@ -1,0 +1,8 @@
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\bin\Release\Mover.exe.config
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\bin\Release\Mover.exe
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\bin\Release\Mover.pdb
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\bin\Release\AutoMove.dll
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\bin\Release\AutoMove.pdb
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\obj\Release\Mover.exe
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\obj\Release\Mover.pdb
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\Mover\obj\Release\Mover.csprojResolveAssemblyReference.cache

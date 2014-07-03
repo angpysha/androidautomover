@@ -1,0 +1,6 @@
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\ReplaceService.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

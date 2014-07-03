@@ -1,0 +1,8 @@
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Release\AutoMove.dll
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Release\AutoMove.pdb
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\obj\Release\ReplaceService.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Release\Android AutoMover.exe.config
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Release\Android AutoMover.exe
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\bin\Release\Android AutoMover.pdb
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\obj\Release\Android AutoMover.exe
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\WindowsService1\obj\Release\Android AutoMover.pdb
