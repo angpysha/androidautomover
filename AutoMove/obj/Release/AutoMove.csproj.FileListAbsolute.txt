@@ -1,0 +1,6 @@
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\AutoMove\bin\Release\AutoMove.dll.config
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\AutoMove\bin\Release\AutoMove.dll
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\AutoMove\bin\Release\AutoMove.pdb
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\AutoMove\obj\Release\AutoMove.dll
+C:\Users\Andrey\documents\visual studio 2013\Projects\WindowsService1\AutoMove\obj\Release\AutoMove.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsService1\AutoMove\obj\Release\AutoMove.csprojResolveAssemblyReference.cache
